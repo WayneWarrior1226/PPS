@@ -2,7 +2,7 @@
  * 
  * users.java
  * This class represents a user entity
- * @author noyes
+ * @author 
  *
  */
 
